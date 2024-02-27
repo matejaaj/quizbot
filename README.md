@@ -23,7 +23,7 @@ To install QuizbBot, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/kvizbot.git
+git clone https://github.com/matejaaj/kvizbot.git
 cd quizbot
 ```
 
