@@ -1,4 +1,4 @@
-# QuizbBot
+# QuizBot
 
 QuizBot is an interactive quiz bot that automates the process of extracting questions and options from images/screenshots and uses OpenAI's GPT models to predict the correct answers. It's designed to assist in quickly obtaining answers for quiz questions presented in a visual format.
 
