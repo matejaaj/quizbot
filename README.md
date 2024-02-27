@@ -60,6 +60,10 @@ Once the application is running, follow these steps to use it:
 2. Use the "Option 1", "Option 2", etc., buttons to select the regions for each of the possible answers.
 3. After selecting the question and answer options, click on "Show answer" to capture, process, and display the generated answer based on the question and options provided. Only repeat this step once you have setup "Question" and "Options" regions.
 
+![Show answer demonstration](https://github.com/matejaaj/quizbot/assets/117997165/1db6a4ae-0767-4371-b9d7-1c3fb77a1837)
+![Select area demonstration](https://github.com/matejaaj/quizbot/assets/117997165/5733b314-f777-4201-a62e-6e6f9a92d1ab)
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or bug fixes, feel free to fork the repository, make changes, and submit a pull request.
+
